@@ -10,7 +10,7 @@ Setup Instructions
 Usage
 Contributing
 License
-_____
+______
 
 
 Introduction
