@@ -10,8 +10,7 @@ Setup Instructions
 Usage
 Contributing
 License
-______
-_
+_______
 
 Introduction
 This project is a movie app built using HTML, CSS, and JavaScript.
