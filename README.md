@@ -1,5 +1,6 @@
 # movie-app
 A simple web application to browse and search for movies.
+_
 
 Table of Contents
 Introduction
